@@ -1,0 +1,26 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("bugzilla.redhat.com") {
+
+.bz_time_tracking_table {display: none}
+table#external_bugs_table {display: none}
+#field_label_cf_cust_facing, #cf_cust_facing { display: none }
+#field_label_cf_internal_whiteboard {display: none}
+#field_label_cf_partner, #cf_partner, #field_container_cf_partner { display: none}
+#field_label_cf_cust_facing, #cf_cust_facing { display: none }
+#cf_internal_whiteboard {display: none}
+#field_label_cf_pm_score, #field_container_cf_pm_score { display: none }
+#field_label_cf_fixed_in, #field_container_cf_fixed_in, #cf_fixed_in { display: none }
+#field_label_cf_devel_whiteboard, #field_container_cf_devel_whiteboard, #cf_devel_whiteboard { display: none }
+#field_label_cf_qa_whiteboard, #field_container_cf_qa_whiteboard, #cf_qa_whiteboard  { display: none }
+#field_label_cf_release_notes, #field_container_cf_release_notes, #cf_release_notes { display: none }
+#field_label_cf_last_closed, #field_container_cf_last_closed { display: none }
+#field_label_bug_file_loc, #bug_file_loc { display: none }
+#field_label_cf_build_id, #field_container_cf_build_id, #cf_build_id  { display: none }
+input#cf_clone_of.text_input {width: 40% }
+.edit_form { text-align: left; width: 80% }
+input#status_whiteboard.text_input { width: 50% }
+table#titles {display: None}
+div#bugzilla-body {padding: 1px}
+div#message {font-size: xx-small; color: black}
+}
