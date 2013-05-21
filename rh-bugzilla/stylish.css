@@ -13,6 +13,7 @@ table#external_bugs_table {display: none}
 #field_container_cf_cust_facing {display: none}
 #field_label_cf_verified {display: none}
 #bz_partners_input_cf_verified {display: none}
+#bz_partners_edit_container_cf_verified {display: none}
 #field_label_rep_platform {display: none}
 #rep_platform {display: none}
 #op_sys {display: none}
