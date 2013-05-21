@@ -6,6 +6,18 @@
 table#external_bugs_table {display: none}
 #field_label_cf_cust_facing, #cf_cust_facing { display: none }
 #field_label_cf_internal_whiteboard {display: none}
+#field_label_cf_qe_conditional_nak {display: none}
+#field_container_cf_qe_conditional_nak {display: none}
+#field_container_cf_conditional_nak {display: none}
+#field_label_cf_conditional_nak {display: none}
+#field_container_cf_cust_facing {display: none}
+#field_label_cf_verified {display: none}
+#bz_partners_input_cf_verified {display: none}
+#field_label_rep_platform {display: none}
+#rep_platform {display: none}
+#op_sys {display: none}
+#field_container_cf_environment {display: none}
+#field_label_cf_environment {display: none}
 #field_label_cf_partner, #cf_partner, #field_container_cf_partner { display: none}
 #field_label_cf_cust_facing, #cf_cust_facing { display: none }
 #cf_internal_whiteboard {display: none}
